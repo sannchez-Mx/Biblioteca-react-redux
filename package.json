@@ -1,11 +1,20 @@
 {
-  "name": "bibliteca-react-redux",
+  "name": "biblioteca-react-redux",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "firebase": "^6.3.4",
+    "history": "^4.9.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-redux": "^5.1.1",
+    "react-redux-firebase": "^2.3.0",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "3.0.1",
+    "redux": "^4.0.4",
+    "redux-auth-wrapper": "^2.1.0",
+    "redux-firestore": "^0.8.0",
+    "sweetalert2": "^8.15.2"
   },
   "scripts": {
     "start": "react-scripts start",
